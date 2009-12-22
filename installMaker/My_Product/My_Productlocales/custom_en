@@ -1,0 +1,213 @@
+# InstallAnywhere Localization File
+#
+# External strings for locale: English (en)
+# See the 'ProjectLocalizationInfo.txt' file in this same directory for information 
+#     regarding mappings between the properties shown below and your InstallAnywhere
+#     project.
+#
+# External/Locale property names can take one of three forms:
+#     <ActionName>.<ReferenceID>.<ActionProperty>          (e.g., Installer.858175031081.productName)
+#     <ActionName>.<ReferenceID>.<ActionProperty>.<Index>  (e.g., Installer.858175031081.installLabels.01)
+#         - where the <ActionProperty> is a Vector and the <Index> represents the place within the
+#           Vector where the value of the property should be inserted
+#     _ia.<SomeProperty>                                   (e.g., _ia.MyCustomCodePanelProperty)
+#         - where <SomeProperty> is used as an identifier for a localized value by custom code
+#
+# External/Locale property values should be plain text strings.  Special or i18n characters
+#     that cannot be represented by ASCII characters should be written using escaped unicode.
+#     - see the utility 'native2ascii' distributed with your JDK
+#
+# Product Name: My_Product
+# Project File: /Users/leemandell/archivistsToolkit/atProject/installMaker/My_Product/My_Product.iap_xml
+# Generated:    Sun Mar 30 19:20:45 EDT 2008
+
+
+# Billboard.157f595eab47.imageName=billboard_default.png
+Billboard.157f595eab47.imageName=billboard_default.png
+
+# Billboard.157f595eab47.imagePath=com/zerog/ia/installer/images/
+Billboard.157f595eab47.imagePath=com/zerog/ia/installer/images/
+
+# InstallBundle.157f5960ab49.bundleName=Application
+InstallBundle.157f5960ab49.bundleName=Application
+
+# InstallBundle.157f5960ab49.description=This installs the application feature.
+InstallBundle.157f5960ab49.description=This installs the application feature.
+
+# InstallBundle.157f5961ab49.bundleName=Help
+InstallBundle.157f5961ab49.bundleName=Help
+
+# InstallBundle.157f5961ab49.description=This installs the help feature.
+InstallBundle.157f5961ab49.description=This installs the help feature.
+
+# InstallDirAction.157f5977ab50.additionalText=Please choose a destination folder for this installation.
+InstallDirAction.157f5977ab50.additionalText=Please choose a destination folder for this installation.
+
+# InstallDirAction.157f5977ab50.prompt=&Where Would You Like to Install?
+InstallDirAction.157f5977ab50.prompt=&Where Would You Like to Install?
+
+# InstallDirAction.157f5977ab50.stepTitle=Choose Install Folder
+InstallDirAction.157f5977ab50.stepTitle=Choose Install Folder
+
+# Installer.157f5932ab42.installLabels.00=Introduction
+Installer.157f5932ab42.installLabels.00=Introduction
+
+# Installer.157f5932ab42.installLabels.01=Choose Install Folder
+Installer.157f5932ab42.installLabels.01=Choose Install Folder
+
+# Installer.157f5932ab42.installLabels.02=Choose Alias Folder
+Installer.157f5932ab42.installLabels.02=Choose Alias Folder
+
+# Installer.157f5932ab42.installLabels.03=Pre-Installation Summary
+Installer.157f5932ab42.installLabels.03=Pre-Installation Summary
+
+# Installer.157f5932ab42.installLabels.04=Installing...
+Installer.157f5932ab42.installLabels.04=Installing...
+
+# Installer.157f5932ab42.installLabels.05=Install Complete
+Installer.157f5932ab42.installLabels.05=Install Complete
+
+# Installer.157f5932ab42.installProgressImageName=introImage.png
+Installer.157f5932ab42.installProgressImageName=introImage.png
+
+# Installer.157f5932ab42.installProgressImagePath=com/zerog/ia/installer/images/
+Installer.157f5932ab42.installProgressImagePath=com/zerog/ia/installer/images/
+
+# Installer.157f5932ab42.panelImageName=introImage.png
+Installer.157f5932ab42.panelImageName=introImage.png
+
+# Installer.157f5932ab42.panelImagePath=com/zerog/ia/installer/images/
+Installer.157f5932ab42.panelImagePath=com/zerog/ia/installer/images/
+
+# Installer.157f5932ab42.rulesFailedMessage=The installer cannot run on your configuration. It will now quit.
+Installer.157f5932ab42.rulesFailedMessage=The installer cannot run on your configuration. It will now quit.
+
+# InstallerInfoData.157f5937ab44.installerName=install
+InstallerInfoData.157f5937ab44.installerName=install
+
+# InstallerInfoData.157f5937ab44.installerTitle=My_Product
+InstallerInfoData.157f5937ab44.installerTitle=My_Product
+
+# InstallerInfoData.157f5937ab44.productName=My_Product
+InstallerInfoData.157f5937ab44.productName=My_Product
+
+# InstallFinishAction.157f597bab51.installErrorMessage=The installation of $PRODUCT_NAME$ is finished, but some errors occurred during the install.  Please see the installation log for details.
+InstallFinishAction.157f597bab51.installErrorMessage=The installation of $PRODUCT_NAME$ is finished, but some errors occurred during the install.  Please see the installation log for details.
+
+# InstallFinishAction.157f597bab51.installFatalMessage=The installation of $PRODUCT_NAME$ is finished, but some serious errors occurred during the install.  Please see the installation log for details.
+InstallFinishAction.157f597bab51.installFatalMessage=The installation of $PRODUCT_NAME$ is finished, but some serious errors occurred during the install.  Please see the installation log for details.
+
+# InstallFinishAction.157f597bab51.installSuccessMessage=Congratulations! $PRODUCT_NAME$ has been successfully installed to:\n\n     $USER_INSTALL_DIR$\n\nPress \"Done\" to quit the installer.
+InstallFinishAction.157f597bab51.installSuccessMessage=Congratulations! $PRODUCT_NAME$ has been successfully installed to:\n\n     $USER_INSTALL_DIR$\n\nPress \"Done\" to quit the installer.
+
+# InstallFinishAction.157f597bab51.installWarningMessage=The installation of $PRODUCT_NAME$ is finished, but some warnings occurred during the install.  Please see the installation log for details.
+InstallFinishAction.157f597bab51.installWarningMessage=The installation of $PRODUCT_NAME$ is finished, but some warnings occurred during the install.  Please see the installation log for details.
+
+# InstallFinishAction.157f597bab51.rebootNotNeededMessage=
+InstallFinishAction.157f597bab51.rebootNotNeededMessage=
+
+# InstallFinishAction.157f597bab51.rebootRecommendedMessage=You should restart the system to complete the installation.
+InstallFinishAction.157f597bab51.rebootRecommendedMessage=You should restart the system to complete the installation.
+
+# InstallFinishAction.157f597bab51.rebootRequiredMessage=You need to restart the system to complete the installation.
+InstallFinishAction.157f597bab51.rebootRequiredMessage=You need to restart the system to complete the installation.
+
+# InstallFinishAction.157f597bab51.windowTitle=Install Complete
+InstallFinishAction.157f597bab51.windowTitle=Install Complete
+
+# InstallFrameConfigurator.157f594bab44.uninstallerTitle=Uninstall $PRODUCT_NAME$
+InstallFrameConfigurator.157f594bab44.uninstallerTitle=Uninstall $PRODUCT_NAME$
+
+# InstallSet.157f5960ab48.description=Only required application features will be installed.  This option is recommended only for users with limited disk space.
+InstallSet.157f5960ab48.description=Only required application features will be installed.  This option is recommended only for users with limited disk space.
+
+# InstallSet.157f5960ab48.imageName=minimal.png
+InstallSet.157f5960ab48.imageName=minimal.png
+
+# InstallSet.157f5960ab48.imagePath=com/zerog/ia/installer/images/
+InstallSet.157f5960ab48.imagePath=com/zerog/ia/installer/images/
+
+# InstallSet.157f5960ab48.installSetName=Minimal
+InstallSet.157f5960ab48.installSetName=Minimal
+
+# InstallSet.157f5962ab48.description=The most common application features will be installed.  This option is recommended for most users.
+InstallSet.157f5962ab48.description=The most common application features will be installed.  This option is recommended for most users.
+
+# InstallSet.157f5962ab48.imageName=typical.png
+InstallSet.157f5962ab48.imageName=typical.png
+
+# InstallSet.157f5962ab48.imagePath=com/zerog/ia/installer/images/
+InstallSet.157f5962ab48.imagePath=com/zerog/ia/installer/images/
+
+# InstallSet.157f5962ab48.installSetName=Typical
+InstallSet.157f5962ab48.installSetName=Typical
+
+# InstallSet.157f6bb0ab54.description=Choose this option to customize the features to be installed.
+InstallSet.157f6bb0ab54.description=Choose this option to customize the features to be installed.
+
+# InstallSet.157f6bb0ab54.imageName=customIcon.png
+InstallSet.157f6bb0ab54.imageName=customIcon.png
+
+# InstallSet.157f6bb0ab54.imagePath=com/zerog/ia/installer/images/
+InstallSet.157f6bb0ab54.imagePath=com/zerog/ia/installer/images/
+
+# InstallSet.157f6bb0ab54.installSetName=Custom
+InstallSet.157f6bb0ab54.installSetName=Custom
+
+# InstallSummary.157f597cab50.stepPrompt=Please Review the Following Before Continuing:
+InstallSummary.157f597cab50.stepPrompt=Please Review the Following Before Continuing:
+
+# InstallSummary.157f597cab50.title=Pre-Installation Summary
+InstallSummary.157f597cab50.title=Pre-Installation Summary
+
+# InstallUninstaller.157f5981ab52.destinationName=Uninstall $PRODUCT_NAME$
+InstallUninstaller.157f5981ab52.destinationName=Uninstall $PRODUCT_NAME$
+
+# IntroAction.157f5978ab4f.message=InstallAnywhere will guide you through the installation of $PRODUCT_NAME$.\n\nIt is strongly recommended that you quit all programs before continuing with this installation.\n\nClick the 'Next' button to proceed to the next screen. If you want to change something on a previous screen, click the 'Previous' button.\n\nYou may cancel this installation at any time by clicking the 'Cancel' button.
+IntroAction.157f5978ab4f.message=InstallAnywhere will guide you through the installation of $PRODUCT_NAME$.\n\nIt is strongly recommended that you quit all programs before continuing with this installation.\n\nClick the 'Next' button to proceed to the next screen. If you want to change something on a previous screen, click the 'Previous' button.\n\nYou may cancel this installation at any time by clicking the 'Cancel' button.
+
+# IntroAction.157f5978ab4f.stepTitle=Introduction
+IntroAction.157f5978ab4f.stepTitle=Introduction
+
+# ShortcutLocAction.157f5979ab50.macPrompt=Where would you like to create aliases?
+ShortcutLocAction.157f5979ab50.macPrompt=Where would you like to create aliases?
+
+# ShortcutLocAction.157f5979ab50.macTitle=Choose Alias Folder
+ShortcutLocAction.157f5979ab50.macTitle=Choose Alias Folder
+
+# ShortcutLocAction.157f5979ab50.unixPrompt=Where would you like to create links?
+ShortcutLocAction.157f5979ab50.unixPrompt=Where would you like to create links?
+
+# ShortcutLocAction.157f5979ab50.unixTitle=Choose Link Folder
+ShortcutLocAction.157f5979ab50.unixTitle=Choose Link Folder
+
+# ShortcutLocAction.157f5979ab50.winPrompt=Where would you like to create product icons?
+ShortcutLocAction.157f5979ab50.winPrompt=Where would you like to create product icons?
+
+# ShortcutLocAction.157f5979ab50.winTitle=Choose Shortcut Folder
+ShortcutLocAction.157f5979ab50.winTitle=Choose Shortcut Folder
+
+# UninstallCompleteAction.157f5971ab4e.rebootNotNeededMessage=
+UninstallCompleteAction.157f5971ab4e.rebootNotNeededMessage=
+
+# UninstallCompleteAction.157f5971ab4e.rebootRecommendedMessage=You should restart the system to complete the uninstallation.
+UninstallCompleteAction.157f5971ab4e.rebootRecommendedMessage=You should restart the system to complete the uninstallation.
+
+# UninstallCompleteAction.157f5971ab4e.rebootRequiredMessage=You need to restart the system to complete the uninstallation.
+UninstallCompleteAction.157f5971ab4e.rebootRequiredMessage=You need to restart the system to complete the uninstallation.
+
+# UninstallCompleteAction.157f5971ab4e.stepTitle=Uninstall Complete
+UninstallCompleteAction.157f5971ab4e.stepTitle=Uninstall Complete
+
+# UninstallCompleteAction.157f5971ab4e.uninstallIncompleteMessage=The following items could not be removed:
+UninstallCompleteAction.157f5971ab4e.uninstallIncompleteMessage=The following items could not be removed:
+
+# UninstallCompleteAction.157f5971ab4e.uninstallSuccessMessage=All items were successfully uninstalled.
+UninstallCompleteAction.157f5971ab4e.uninstallSuccessMessage=All items were successfully uninstalled.
+
+# UninstallIntroAction.157f5969ab4d.message=About to uninstall...\n\n$PRODUCT_NAME$\n\nThis will remove features installed by InstallAnywhere.  It will not remove files and folders created after the installation.
+UninstallIntroAction.157f5969ab4d.message=About to uninstall...\n\n$PRODUCT_NAME$\n\nThis will remove features installed by InstallAnywhere.  It will not remove files and folders created after the installation.
+
+# UninstallIntroAction.157f5969ab4d.stepTitle=Uninstall $PRODUCT_NAME$
+UninstallIntroAction.157f5969ab4d.stepTitle=Uninstall $PRODUCT_NAME$
+

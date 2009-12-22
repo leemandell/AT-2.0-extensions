@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dlib/!svn/ver/6383/at/trunk/src/org/archiviststoolkit/maintenance/common
+END
+ResultProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/dlib/!svn/ver/3501/at/trunk/src/org/archiviststoolkit/maintenance/common/ResultProducer.java
+END
+MaintenanceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/dlib/!svn/ver/5586/at/trunk/src/org/archiviststoolkit/maintenance/common/MaintenanceUtils.java
+END
+UserInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dlib/!svn/ver/5008/at/trunk/src/org/archiviststoolkit/maintenance/common/UserInformation.java
+END
+ConnectionInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/dlib/!svn/ver/6383/at/trunk/src/org/archiviststoolkit/maintenance/common/ConnectionInformation.java
+END
+UserInformation.jfd
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/dlib/!svn/ver/5008/at/trunk/src/org/archiviststoolkit/maintenance/common/UserInformation.jfd
+END
+ConnectionInformation.jfd
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/dlib/!svn/ver/1585/at/trunk/src/org/archiviststoolkit/maintenance/common/ConnectionInformation.jfd
+END

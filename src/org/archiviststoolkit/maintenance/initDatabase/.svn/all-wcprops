@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dlib/!svn/ver/5724/at/trunk/src/org/archiviststoolkit/maintenance/initDatabase
+END
+RepositoryInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dlib/!svn/ver/1635/at/trunk/src/org/archiviststoolkit/maintenance/initDatabase/RepositoryInformation.java
+END
+InitDatabaseBackgroundResultCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/dlib/!svn/ver/5724/at/trunk/src/org/archiviststoolkit/maintenance/initDatabase/InitDatabaseBackgroundResultCreator.java
+END
+InitDatabaseWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/dlib/!svn/ver/5724/at/trunk/src/org/archiviststoolkit/maintenance/initDatabase/InitDatabaseWizard.java
+END
+RepositoryInformation.jfd
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dlib/!svn/ver/1585/at/trunk/src/org/archiviststoolkit/maintenance/initDatabase/RepositoryInformation.jfd
+END
